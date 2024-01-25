@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/228735137119811.62054724baf0b.gif"  />
+  <img height="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/228735137119811.62054724baf0b.gif"  />
 </div>
 
 ###
