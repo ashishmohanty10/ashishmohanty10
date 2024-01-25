@@ -72,7 +72,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [https://github.com/ashishmohanty10/ZerodhaClone-100xDev]<br><br>- 🌱 I’m currently learning: Express<br><br>- 💬 Ask me about : React JS <br><br>- 📫 How to reach me : ashishmohaty10@gmail.com</p>
+<p align="left">- 🔭 I’m currently working on [https://github.com/ashishmohanty10/ZerodhaClone-100xDev]<br><br>- 🌱 I’m currently learning: Express & Authentication<br><br>- 💬 Ask me about : React JS <br><br>- 📫 How to reach me : ashishmohaty10@gmail.com</p>
 
 ###
 
