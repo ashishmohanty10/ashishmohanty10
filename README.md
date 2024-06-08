@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Hi 👋, I'm Ashish Mohanty<br>A passionate frontend developer from India (🇮🇳)</h3>
+<h3 align="center">Hi 👋, I'm Ashish Mohanty<br>A passionate Web Developer from India (🇮🇳)</h3>
 
 ###
 
